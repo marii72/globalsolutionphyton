@@ -93,23 +93,57 @@ Nenhuma (opcional no enunciado).
 
 Cada orientação traz a própria fonte no JSON. Sites usados: gov.br/mdr (Defesa Civil), gov.br/cemaden, gov.br/saude (orientações sobre enchentes), caixa.gov.br (FGTS), gov.br/mds (assistência social) e gov.br/governodigital (documentos).
 
-## Resultado do teste com usuários
+Resultado do teste com usuários
 
-> **Preencher após testar com pelo menos 3 pessoas de fora da equipe (10 atendimentos ou mais). Não registre nomes nem dados dessas pessoas.**
+Teste informal realizado com 3 pessoas de fora da equipe, identificadas apenas como Participante 1, 2 e 3, sem coleta de nomes ou dados pessoais.
 
-| Indicador | Resultado |
-|-----------|-----------|
-| Pessoas testadas | _preencher_ |
-| Atendimentos | _preencher_ |
-| Resposta encontrada (%) | _preencher_ |
-| Taxa de acerto: ajudou (%) | _preencher_ |
-| Tempo médio para encontrar | _preencher_ |
-| Tentativas por atendimento | _preencher_ |
-| Facilidade de uso (1 a 5) | _preencher_ |
+Indicador
 
-**Dúvidas sem solução:** _preencher_
+Resultado
 
-**Melhoria feita a partir do teste:** _preencher (ex.: nova palavra-chave no JSON)_
+Pessoas testadas
+
+3
+
+Atendimentos
+
+6
+
+Resposta encontrada (%)
+
+83,3%
+
+Taxa de acerto: ajudou (%)
+
+80%
+
+Tempo médio para encontrar
+
+1 minuto e 30 segundos
+
+Tentativas por atendimento
+
+2
+
+Facilidade de uso (1 a 5)
+
+4
+
+Observações por participante
+
+Participante 1: percebeu que as perguntas eram restritas ao tema do assistente. O escopo ficou claro, confirmando a limitação de responder apenas o que está na base de conhecimento.
+
+Participante 2: entendeu que a proposta é sobre cuidados com enchentes, demonstrando que o objetivo do protótipo está bem comunicado.
+
+Participante 3: gostou da proposta, mas não entendeu bem o significado das opções 0 e 1, precisando de explicação. Isso revelou um problema de usabilidade.
+
+Dúvidas sem solução
+
+Algumas dúvidas mais específicas não foram respondidas pelo assistente por não estarem presentes na base de conhecimento. Também foi identificada dificuldade inicial para compreender as opções 0 e 1.
+
+Melhoria feita a partir do teste
+
+Foi identificada a necessidade de melhorar as instruções sobre as opções 0 e 1, deixando mais claro o significado de cada uma diretamente na interface. Também foi considerada a possibilidade de ampliar a base de conhecimento para responder a mais dúvidas relacionadas aos cuidados com enchentes.
 
 ## Limitações
 
