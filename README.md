@@ -154,4 +154,4 @@ Foi identificada a necessidade de melhorar as instruções sobre as opções 0 e
 
 ## Vídeo técnico
 
-Link: _colar aqui o link do YouTube (não listado)_
+https://youtu.be/R96OeW0DHyI?si=FpE9YQsMTj-CLZ58
