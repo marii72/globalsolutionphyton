@@ -1,4 +1,4 @@
-# Citizen Assist AI
+# Citizen Assist AI ✮ ⋆ ˚｡𖦹 ⋆｡°✩
 
 Assistente de terminal, em Python, que orienta **moradores de áreas de risco de enchentes e pessoas que querem ajudar** com base em informações verificadas, mostrando a fonte, a data de verificação e avisos de limitação, sem coletar dados pessoais.
 
